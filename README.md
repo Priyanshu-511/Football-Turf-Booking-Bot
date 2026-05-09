@@ -60,8 +60,8 @@ pip install webdriver-manager
 
    ```python
    name       = "Your Full Name"
-   rollNum    = "23B1234"          # your roll number
-   otherRoll  = "23B0001, 23B0002" # comma-separated co-player roll numbers
+   rollNum    = "2XBXXXX"          # your roll number
+   otherRoll  = "2XBXXXX, 2XBXXXX" # comma-separated co-player roll numbers
    numPlayer  = 6                  # total number of players
    ```
 
